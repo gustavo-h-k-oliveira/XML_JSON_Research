@@ -19,7 +19,6 @@ Este repositório contém uma pesquisa abrangente sobre XML e JSON, incluindo do
     - **sql_server/**: Scripts SQL para manipulação de XML e JSON no SQL Server
 
 - 📚 **resources/**: Recursos adicionais
-  - **books.md**: Livros recomendados
   - **articles.md**: Artigos recomendados
   - **tutorials.md**: Tutoriais recomendados
   - **tools.md**: Ferramentas recomendadas
