@@ -6,9 +6,20 @@ Este repositório contém uma pesquisa abrangente sobre XML e JSON, incluindo do
 
 - 📄 **docs/**: Documentação sobre XML, JSON e bancos de dados
   - **xml/**: Documentação específica para XML
+
+  [Introdução de XML](docs/xml/introdução.md)
+
   - **json/**: Documentação específica para JSON
+
+  [Introdução de JSON](docs/json/introdução.md)
+
   - **databases/**: Documentação sobre integração com bancos de dados
+
     - **sql_server/**: Documentação específica para SQL Server
+
+      [Integração de JSON](docs/databases/sql_server/json/json_integração.md)
+      
+      [Integração de XML](docs/databases/sql_server/xml/xml_integração.md)
 
 - 👨‍💻 **code/**: Exemplos de código para serialização, desserialização e integração com bancos de dados
   - **xml/**: Exemplos de código relacionados a XML
@@ -20,8 +31,6 @@ Este repositório contém uma pesquisa abrangente sobre XML e JSON, incluindo do
 
 - 📚 **resources/**: Recursos adicionais
   - **articles.md**: Artigos recomendados
-  - **tutorials.md**: Tutoriais recomendados
-  - **tools.md**: Ferramentas recomendadas
 
 ## 🔥 Começando
 
