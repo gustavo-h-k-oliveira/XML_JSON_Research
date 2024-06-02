@@ -23,14 +23,21 @@ Este repositório contém uma pesquisa abrangente sobre XML e JSON, incluindo do
 
 - 👨‍💻 **code/**: Exemplos de código para serialização, desserialização e integração com bancos de dados
   - **xml/**: Exemplos de código relacionados a XML
+
     - **python/**, **java/**, **javascript/**: Exemplos em diferentes linguagens de programação
+
   - **json/**: Exemplos de código relacionados a JSON
+
     - **python/**, **java/**, **javascript/**: Exemplos em diferentes linguagens de programação
+
   - **databases/**: Exemplos de código para integração com bancos de dados
+
     - **sql_server/**: Scripts SQL para manipulação de XML e JSON no SQL Server
 
 - 📚 **resources/**: Recursos adicionais
   - **articles.md**: Artigos recomendados
+
+    [Referências da pesquisa](resources/artigos.md)
 
 ## 🔥 Começando
 
