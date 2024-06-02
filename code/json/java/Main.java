@@ -1,5 +1,3 @@
-package code.json.java;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class Main {
