@@ -1,3 +1,4 @@
+// Adicionar a dependência no arquivo pom.xml
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class Main {

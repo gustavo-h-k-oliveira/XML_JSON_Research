@@ -1,6 +1,7 @@
 package code.xml.java;
 
 import java.io.File;
+// Importando as classes necessárias do pacote javax.xml.bind
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
