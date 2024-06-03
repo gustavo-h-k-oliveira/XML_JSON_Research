@@ -66,5 +66,5 @@ WHERE Id = 1;
 Crie índices XML para melhorar a performance de consultas.
 
 ```sql
-CREATE PRIMARY XML INDEX PIdx_Ex
+CREATE PRIMARY XML INDEX PIdx_Ex;
 ```
